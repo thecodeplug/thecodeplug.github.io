@@ -113,6 +113,9 @@ a:hover, a:active {
  /*   border: solid #fff 3px;*/
 }
 @media only screen (min-width: 320px) and (max-width: 768px){
-	body { font-size: 12px; }
+	body { font-size: 12px; 
+	}
+	.container { width: 20em; 
+	}
 }
 
