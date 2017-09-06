@@ -112,11 +112,11 @@ a:hover, a:active {
     background-color: transparent;
  /*   border: solid #fff 3px;*/
 }
-@media only screen (min-width: 320px) and (max-width: 768px) and (orientation: portrait) 
+/*@media only screen (min-width: 320px) and (max-width: 768px) and (orientation: portrait) 
 {
 	body { font-size: 12px; 
 	}
 	.container { width: 20em; 
 	}
-}
+}*/
 
