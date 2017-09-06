@@ -30,17 +30,6 @@ body {
 /*	margin-right: 100px;*/
 }
 
-p {
-	font-family: Arial;
-	color: black;
-}
- 
-.bio, p {
-	float: right;
-	width: 800px;
-	line-height: 20px;
-}
-
 .video-section {
 	width: 100%;
 	height: 100%;
